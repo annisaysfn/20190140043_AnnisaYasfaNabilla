@@ -18,8 +18,9 @@ body {
 }
 
 .baris1 img {
-    width: 35%, 200px;
-    height: 35%, 200px;
+    column-width: 35%;
+    width: 200px;
+    height: 200px;
     border-radius: 70%;
     border: dimgrey;
     border-style: dashed;
