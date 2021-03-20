@@ -89,6 +89,11 @@ body {
 /*Responsive*/
 @media (max-width: 580px) {
 
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .heading {
         background-color: burlywood;
         height: 50px;
