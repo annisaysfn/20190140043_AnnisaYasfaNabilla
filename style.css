@@ -1,6 +1,6 @@
 * {
-    margin-right: 70px;
-    margin-left: 70px;
+    margin-right: 30%;
+    margin-left: 30%;
     padding: 0;
 }
 
@@ -19,8 +19,8 @@ body {
 }
 
 .baris1 img {
-    column-width: 40cm;
-    width: 200px;
+    position: 35%;
+    width: 200px, 35%;
     height: 200px;
     border-radius: 70%;
     border: dimgrey;
