@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Noto Sans JP', Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+.heading {
+    height: 50px;
+}
+
+.baris1 {
+    background-color: burlywood;
+}
+
+.baris1 img {
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+    border: dimgrey;
+    border-style: dashed;
+    float: left;
+    padding: 5px;
+}
+
+.baris1 h1 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.baris2 {
+    margin-top: 50px;
+}
+
+.baris2 h2 {
+    text-align: center;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.baris2 p {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.left {
+    width: 35%;
+    text-align: center;
+    background-color: lightslategrey;
+    margin-top: 150px;
+}
+
+.left h3 {
+    text-align: center;
+    color: burlywood;
+}
+
+.left p {
+    font-weight: bold;
+}
+
+.right {
+    width: 65%;
+    float: right;
+    margin-top: -600px;
+}
+
+.right h3 {
+    text-align: center;
+    color: burlywood;
+}
+
+.right p {
+    font-weight: bold;
+    text-align: center;
+}
+
+/*Responsive*/
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 768px) {
+    
+}
+
+@media (max-width: 500px) {
+    
+}
