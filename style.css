@@ -108,13 +108,16 @@ body {
     }
 
     .baris1 img {
-        background-color: burlywood;
-        float: none;
-        margin-top: 15px;
+        background-color: white;
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
     }
 
     .baris2 {
-        margin-top: 30px;
+        background-color:burlywood;
         text-align: center;
     }
 
