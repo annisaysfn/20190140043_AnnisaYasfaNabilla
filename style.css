@@ -105,9 +105,8 @@ body {
 
     .baris1 img {
         background-color: burlywood;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
+        float: none;
+        margin-top: 15px;
     }
 
     .baris1 h1 {
