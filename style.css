@@ -87,14 +87,24 @@ body {
 }
 
 /*Responsive*/
-@media (max-width: 1024px) {
+@media (max-width: 580px) {
 
-}
+    .heading {
+        background-color: burlywood;
+        height: 50px;
+    }
 
-@media (max-width: 768px) {
-    
-}
+    .baris1 {
+        width: 35%;
+    }
 
-@media (max-width: 500px) {
-    
+    .baris1 img {
+        width: 200px;
+        height: 200px;
+        border-radius: 70%;
+        border: dimgrey;
+        border-style: dashed;
+        padding: 5px;
+        margin-bottom: 10px;
+    }
 }
