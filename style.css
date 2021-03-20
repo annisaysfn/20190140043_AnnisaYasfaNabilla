@@ -100,7 +100,7 @@ body {
     }
 
     .baris1 {
-        width: none;
+        width: 100%;
     }
 
     .baris1 img {
@@ -115,12 +115,12 @@ body {
     }
 
     .left {
-        width: none;
+        width: 100%;
         margin-top: 200px;
     }
 
     .right {
-        width: none;
+        width: 100%;
         float: none;
         margin-top: 0;
     }
