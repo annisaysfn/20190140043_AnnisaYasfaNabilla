@@ -54,9 +54,9 @@ body {
 }
 
 .left {
+    background-color: lightslategrey;
     width: 35%;
     text-align: center;
-    background-color: lightslategrey;
     margin-top: 150px;
     margin-left: 15px;
 }
@@ -73,7 +73,7 @@ body {
 .right {
     width: 65%;
     float: right;
-    margin-top: -600px;
+    margin-top: -750px;
 }
 
 .right h3 {
