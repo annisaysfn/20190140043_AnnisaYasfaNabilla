@@ -95,17 +95,18 @@ body {
     }
 
     .heading {
-        background-color: burlywood;
         height: 50px;
-        text-align: center;
         margin-bottom: 40px;
     }
 
     .baris1 {
+        background-color: burlywood;
         width: 100%;
+        text-align: center;
     }
 
     .baris1 h1 {
+        color: black;
         font-size: 30px;
     }
 
@@ -120,7 +121,8 @@ body {
     }
 
     .baris2 {
-        background-color:burlywood;
+        background-color: rgba(96, 99, 97, 0);
+        margin-top: 240px;
         text-align: center;
     }
 
