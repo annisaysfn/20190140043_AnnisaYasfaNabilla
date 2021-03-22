@@ -119,11 +119,19 @@ body {
     }
 
     .baris2 {
+        background-color: black;
         width: 100%;
         float: none;
-        background-color: white;
-        margin-top: 20px;
+        margin-top: 10px;
         text-align: center;
+    }
+
+    .baris2 h2 {
+        color: white;
+    }
+
+    .baris2 p {
+        color: white;
     }
 
     .left {
