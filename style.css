@@ -42,6 +42,7 @@ body {
 
 .baris2 {
     width: 65%;
+    float: right;
     text-align: center;
     margin-top: -200px;
 }
