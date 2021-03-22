@@ -17,11 +17,13 @@ body {
 .baris1 {
     background-color: burlywood;
     width: 35%;
+    margin-bottom: 30px;
 }
 
 .baris1 img {
-    float: left;
-    margin-left: 125px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 200px;
     height: 200px;
     border-radius: 70%;
@@ -39,17 +41,17 @@ body {
 }
 
 .baris2 {
-    margin-top: 50px;
+    float: right;
+    text-align: center;
+    margin-top: -200px;
 }
 
 .baris2 h2 {
-    text-align: center;
     font-size: 22px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .baris2 p {
-    text-align: center;
     font-size: 14px;
     font-style: italic;
 }
