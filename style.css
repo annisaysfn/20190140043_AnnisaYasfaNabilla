@@ -122,7 +122,7 @@ body {
 
     .baris2 {
         background-color: rgba(96, 99, 97, 0);
-        margin-top: 240px;
+        margin-top: 250px;
         text-align: center;
     }
 
@@ -171,6 +171,7 @@ body {
     .baris2 {
         background-color:burlywood;
         text-align: center;
+        margin-top: 30px;
     }
 
     .left {
