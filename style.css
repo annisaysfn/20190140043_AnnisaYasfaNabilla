@@ -15,7 +15,6 @@ body {
 }
 
 .baris1 {
-    background-color: burlywood;
     width: 35%;
     margin-bottom: 30px;
 }
@@ -34,6 +33,7 @@ body {
 }
 
 .baris1 h1 {
+    background-color: burlywood;
     text-align: center;
     font-weight: bold;
     font-size: 35px;
