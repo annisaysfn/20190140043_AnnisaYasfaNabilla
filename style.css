@@ -111,6 +111,7 @@ body {
     }
 
     .baris1 img {
+        float: none;
         display: block;
         width: 200px;
         height: 200px;
@@ -124,6 +125,14 @@ body {
         background-color: rgba(96, 99, 97, 0);
         margin-top: 240px;
         text-align: center;
+    }
+
+    .baris2 h2 {
+        color: white;
+    }
+
+    .baris2 p {
+        color: white;
     }
 
     .left {
